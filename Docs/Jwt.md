@@ -1,4 +1,4 @@
-# JWT Authentication - Technical Guide
+# JWT Authentication
 
 ## What is JWT?
 
